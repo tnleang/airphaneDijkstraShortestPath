@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.html</file>
+        <file>../../../../../Downloads/airplaneGUI/map.html</file>
+    </qresource>
+</RCC>
